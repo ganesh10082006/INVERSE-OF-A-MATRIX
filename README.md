@@ -15,11 +15,12 @@ Using the np.linalg.matrix_rank(), we can find the inverse of the given matrix
 End the program
 
 ## Program:
+~~~
 import numpy as np
 A = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B = np.linalg.inv(A)
 print(B)
-
+~~~
 ## Output:
 ![image](https://github.com/ganesh10082006/INVERSE-OF-A-MATRIX/assets/151981672/438573e3-94c3-4865-b874-af606cf5a278)
 
